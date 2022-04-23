@@ -492,7 +492,7 @@ plot(lm.fit)
 
 # all three methods suggest the best model is one with predictors: life_expectancy + human_developement_index
 
-# explain the covariance factors behind the results
+# explain the covariance factors behind the results #
 ```
 
 
